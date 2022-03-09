@@ -7,7 +7,7 @@ This inexpensive 3D printed smartphone stand will allow for a smartphone to be h
 
 # Compatibility
 
-This phone stand was designed to fit the width of most smart phones. The phone stand is indented to fit smartphones that range from 60mm - 85mm in width.
+This phone stand was designed to fit the width of most smart phones. The phone stand is indented to fit smartphones that range from 60mm - 90mm in width.
 
 # Usage
 
@@ -19,7 +19,7 @@ This phone stand is intended to be paired with a magnification app that one can 
 
 # 3D Printing
 
-The design prints in PLA with no supports. A 3D print STL can be found at the top of this page.
+The design prints in PLA with no supports. A 3D print STL can be found at the top of this page in Design Files.
 
 # Attribution
 
